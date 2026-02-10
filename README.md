@@ -1,5 +1,4 @@
-# LoRA Implementation from Scratch 🚀
-
+# LoRA Implementation
 A clean, educational implementation of **Low-Rank Adaptation (LoRA)** in PyTorch.
 
 ## 📖 What is LoRA?
